@@ -1,2 +1,3 @@
 "Our mission is to innovate and lead." 
-"Team lead:Samantha Mberenga"
+"Team lead: Nduba" 
+"Team lead:Samantha Mberenga
