@@ -1,1 +1,1 @@
-Team lead: Adrian Phiri
+Team lead: Adrian K Phiri
